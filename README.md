@@ -103,6 +103,7 @@ Run it with:
 
 ```bash
 python3 measurement_summary.py
+
 ```
 
 Try another list or threshold to test your calculations, then restore `[18, 21, 24, 19]` and `"20"` before generating the report.
